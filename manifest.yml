@@ -1,0 +1,5 @@
+---
+applications:
+ - name: nutrition-tracker
+   random-route: true
+   memory: 256M
